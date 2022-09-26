@@ -1,8 +1,9 @@
-{
+  {
   "version": "1.0.0",
   "name": "P5TemplateiPad",
   "dependencies": {
     "express": "^4.17.1",
-    "p5": "^1.0.0"
-  }
-}
+    "p5": "^1.0.0",
+    "tone": "^14.7.77"
+    }
+   }
